@@ -1,3 +1,4 @@
+
 """
 Django settings for postagram project.
 
@@ -25,7 +26,7 @@ SECRET_KEY = 'django-insecure-7z3ird*tc$u=bqeg4(koddrgd--939_cg-x4l9h%=j8%5q3kso
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['13.53.171.39']
 
 
 # Application definition
